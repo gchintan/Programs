@@ -11,10 +11,10 @@ public class ArmstrongNo {
 		int len=order(num);
 		
 		if(armstrong(num,len)) {
-			System.out.println("It is an armstrong number: ");
+			System.out.println("It is an armstrong number");
 		}
 		else {
-			System.out.println("It si not armstrong number: ");
+			System.out.println("It is not armstrong number ");
 		}
 
 	}
